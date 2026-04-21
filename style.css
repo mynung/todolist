@@ -1,0 +1,26 @@
+*{
+    margin: 10px auto;
+    text-align: center;
+}
+
+#main{
+    margin-top: 50px;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 14px;
+    width: 300px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    list-style: none;
+    
+}
+
+#r_btn{
+    border: none;
+    padding: 4px 8px;
+    border-radius: 6px;
+    cursor: pointer;
+}
